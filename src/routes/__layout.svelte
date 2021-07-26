@@ -10,7 +10,11 @@
 </main>
 
 <footer>
-	<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+	<nav>
+		<ul>
+			<li><a href="https://instagram.com/oyvindwashere">Follow me on Instagram</a></li>
+		</ul>
+	</nav>
 </footer>
 
 <style>
@@ -31,6 +35,7 @@
 		justify-content: center;
 		align-items: center;
 		padding: 40px;
+		background: var(--black);
 	}
 
 	footer a {

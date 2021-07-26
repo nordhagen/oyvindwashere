@@ -15,13 +15,11 @@
 </script>
 
 <svelte:head>
-	<title>About</title>
+	<title>Blog</title>
 </svelte:head>
 
 <div class="content">
-	<h1>Here's me</h1>
-	<p>My name is Øyvind Nordhagen and I'm a street photographer based in Oslo, Norway. </p>
-	<p>I got my first camera when I was 13 years old and have been making pictures ever since (a <a href="https://www.lomography.com/magazine/228380-minolta-dynax-3000i-the-slr-for-lazy-photographers">Minolta Dynax 3000i </a> if you're interested). </p>
+	<h1>Blog</h1>
 </div>
 
 <style>
